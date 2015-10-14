@@ -1,0 +1,1 @@
+INSERT INTO CDDISK (CDDISKID, ARTIST, TITLE) values (1, 'test_artist', 'test_title');
